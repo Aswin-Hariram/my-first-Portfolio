@@ -52,5 +52,4 @@ Welcome to my **first portfolio website**! 🚀 This is a personal project desig
 
 ## 📬 Connect with Me
 📧 **Email**: [aswincseskct@gmail.com](mailto:aswincseskct@gmail.com)  
-🌐 **Portfolio**: [aswinhariramportfolio.framer.website]([https://aswinhariramportfolio.framer.website/](https://aswin-hariram.netlify.app/))  
 💼 **LinkedIn**: [linkedin.com/in/aswin-hariram](#)  
