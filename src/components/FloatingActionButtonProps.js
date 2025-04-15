@@ -5,7 +5,7 @@ import { IoMdSend } from "react-icons/io";
 function FloatingActionButton() {
   const [isOpen, setIsOpen] = useState(false);
   const [messages, setMessages] = useState([
-    { text: "Hi there! How can I help you today?", isBot: true }
+    { text: "Hello! I'm your Portfolio AI Bot. How can I assist you with your portfolio today?", isBot: true }
   ]);
   const [inputText, setInputText] = useState("");
   const [isLoading, setIsLoading] = useState(false);
